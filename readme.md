@@ -76,7 +76,7 @@ python main.py
 ./main.exe
 ```
 
-_注:Python源文件只能在`终端`中使用(例如 cmd 或 python 命令行),不能在 ILDE 中 run,否则某些字符渲染会出现错误_  
+_注:Python源文件只能在`终端`中使用(例如 cmd 或 python 命令行),不能在 IDLE 中 run,否则某些字符渲染会出现错误_  
 _main.exe不是最终的可执行文件 虽然可以不用装库 但是依然需要data和temp文件夹_  
 
 等待摄像头打开后,在弹出的窗口中按`s`识别图像并分类  
